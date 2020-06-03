@@ -5,7 +5,7 @@ A basic React-Native application. Keeping a headache diary, monitoring the frequ
 - React Native
 - Android Studio 
 
-##Usage
+## Usage
 
 ```
 npm run build
